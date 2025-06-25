@@ -37,7 +37,7 @@ A modern, responsive personal portfolio built using **ReactJS**, **Vite**, **Typ
 
 ## 🔗 **Live Demo**
 
-👉 [Visit Portfolio] (https://merry-macaron-cd8996.netlify.app/)
+👉 [Visit Portfolio] https://verdant-frangipane-a649a3.netlify.app/
 
 ---
 
